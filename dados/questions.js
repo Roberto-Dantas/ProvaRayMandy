@@ -76,7 +76,7 @@ let questions = [
       type: "multiple",
       difficulty: "easy",
       question: "Qual o melhor time?",
-      answer: "Palmeiras",
+      answer: "São Paulo",
       options: ["Flamengo", "São Paulo", "Palmeiras", "Santos"],
     },
     {
